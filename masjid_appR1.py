@@ -1,4 +1,7 @@
-cd C:\Users\Michelle Ohello\Documents\Streamlit\Masjidimport streamlit as st
+import streamlit as st
+
+# ...kode selanjutnya...
+
 import os
 import requests
 from datetime import datetime, timedelta
